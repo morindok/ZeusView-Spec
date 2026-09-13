@@ -8,8 +8,6 @@
 ترمینال حرفهای هوش مصنوعی ترید کریپتو — قدرتمندترین ابزار تحلیل و معامله در بازارهای مالی.
 
 [🚀 Live Demo / نسخه زنده](https://zeusview-9jxw.arcada.app/)
-|
-[📖 Requirements / مشخصات فنی](ZeusView-Requirements.md)
 
 </div>
 
